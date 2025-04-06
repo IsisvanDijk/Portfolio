@@ -51,7 +51,7 @@ const SOTD = () => {
                     className="text-[#003366] hover:text-[#001f33] transition-colors duration-300 font-semibold"
                     aria-label="Instagram - Station of the dead"
                 >
-                    Bekijk de instagram voor de gameplay!
+                    Bekijk de instagram!
                 </a>
             </div>
         </div>

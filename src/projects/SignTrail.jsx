@@ -21,8 +21,7 @@ const SignTrail = () => {
                 het leren van gebaren interactiever en leuker te maken. Daardoor heeft mijn team de keuze gemaakt een
                 spel te maken. In het spel volgen spelers een pad en leren ze
                 verschillende gebaren die ze moeten uitvoeren om verder te komen. Dit project heeft kunnen laten zien dat
-                gamificatie van educatie zeker een goede optie kan zijn, zo kunnen veel mensen uit ons backend team nu vinger
-                spellen sinds zij zelf het model hebben getraind. </p>
+                gamificatie van educatie zeker een goede optie kan zijn, door deze opdracht kunnen sommige van mijn teamgenoten nu zelf vingerspellen. </p>
 
             <div className="mt-4">
                 <a
