@@ -11,11 +11,11 @@ const EcoJourney = () => {
             <h2 className="text-3xl font-semibold mb-6 text-[#003366]">Eco Journey</h2>
 
             <div className="mt-4 mb-6 grid grid-cols-1 sm:grid-cols-3 md:grid-cols-5 gap-4 justify-items-center">
-                <img src="/images/eco1.png" alt="EcoJourney screenshot 1" className="rounded-lg shadow-md w-auto h-80" />
-                <img src="/images/eco2.png" alt="EcoJourney screenshot 2" className="rounded-lg shadow-md w-auto h-80" />
-                <img src="/images/eco3.png" alt="EcoJourney screenshot 3" className="rounded-lg shadow-md w-auto h-80" />
-                <img src="/images/eco4.png" alt="EcoJourney screenshot 4" className="rounded-lg shadow-md w-auto h-80" />
-                <img src="/images/eco5.png" alt="EcoJourney screenshot 5" className="rounded-lg shadow-md w-auto h-80" />
+                <img src="./images/eco1.png" alt="EcoJourney screenshot 1" className="rounded-lg shadow-md w-auto h-80" />
+                <img src="./images/eco2.png" alt="EcoJourney screenshot 2" className="rounded-lg shadow-md w-auto h-80" />
+                <img src="./images/eco3.png" alt="EcoJourney screenshot 3" className="rounded-lg shadow-md w-auto h-80" />
+                <img src="./images/eco4.png" alt="EcoJourney screenshot 4" className="rounded-lg shadow-md w-auto h-80" />
+                <img src="./images/eco5.png" alt="EcoJourney screenshot 5" className="rounded-lg shadow-md w-auto h-80" />
             </div>
 
             <p className="text-[#333333] text-lg leading-relaxed mb-6">

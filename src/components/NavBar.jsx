@@ -34,7 +34,7 @@ const NavBar = () => {
                             aria-label="LinkedIn"
                         >
                             <img
-                                src="/./public/linkedin.png"
+                                src="./linkedin.png"
                                 alt="LinkedIn"
                                 className="w-6 h-6 rounded-full"
                             />
