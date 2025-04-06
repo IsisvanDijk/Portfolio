@@ -12,7 +12,7 @@ const SOTD = () => {
 
             <div className="mt-4 mb-6 flex justify-center">
                 <video className="max-w-full h-auto rounded-lg shadow-md" controls>
-                    <source src="/videos/SOTD-Trailer.mp4" type="video/mp4"/>
+                    <source src="./videos/SOTD-Trailer.mp4" type="video/mp4"/>
                     Je browser ondersteunt de video-tag niet.
                 </video>
             </div>
